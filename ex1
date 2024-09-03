@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Web</title>
+    <link rel="stylesheet" href="Style.css">
+    <h1 style="text-align: center;font-size: 18px;height: 94%;"></h1>
+</head>
+<body>
+  
+    <img src="https://media.istockphoto.com/id/490959742/photo/porsche-911-model-car.jpg?s=612x612&w=0&k=20&c=QXIqyd6IxkuYN_-JJD2CMtsJ8hNrmUMby2ICJdIy2ec=" usemap="#carimg" width="610" height="395" class="centre">
+    <map name="carimg">
+        <area shape="poly" coords="150,264,162,267,173,273, 179,279,182,294,186,306,181,317,172,322,161,325,148,327,136,323,129,318,121,304,120,289,122,278,127,274,138,265 " href="https://www.michelin.in/auto/manufacturers/porsche">
+        <area shape="poly" coords="88,241,211,233,272,197,384,201,456,225,523,266,531,286,524,299,507,303,475,303, 464,287,451,270,432,262,417,259,395,264,378,293,350,308,301,309,252,310,205,308,192,277,166,258,138,257,128,264,112,289,98,304,69,299,66,276" href="https://www.porsche.com/pap/_thailand_/accessoriesandservice/classic/models/964/964-turbo/">
+    </map>
+</body>
+</html>
