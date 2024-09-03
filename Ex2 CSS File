@@ -1,0 +1,16 @@
+text {
+    text-align:top;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    margin: 0; 
+    background-color: #003a6d;
+
+
+}
+img {
+    border: none;
+}
